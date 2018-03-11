@@ -5,15 +5,15 @@
     <br>320 efficient solutions to HackerRank problems
 </p>
 
-* [10 Days of Statistics](#10-days-of-statistics)
+<!-- * [10 Days of Statistics](#10-days-of-statistics)
 * [30 Days of Code](#30-days-of-code)
 * [Algorithms](#algorithms)
 * [Cracking the Coding Interview](#cracking-the-coding-interview)
 * [Data Structures](#data-structures)
 * [General Programming](#general-programming)
-* [Implementation](#implementation)
+* [Implementation](#implementation) -->
 * [Java](#java)
-* [SQL](#sql)
+<!-- * [SQL](#sql)
 
 Solutions are coded using Java 8
 
@@ -276,7 +276,7 @@ SQL solutions are coded using MySQL
 | Brute Force | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)                               |     30     | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/Implementation/Brute%20Force/Making%20Anagrams/Solution.java)               |
 | Brute Force | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)                    |     30     | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/Implementation/Brute%20Force/Modified%20Kaprekar%20Numbers/Solution.java)   |
 
-
+-->
 # Java
 
 |          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
@@ -347,6 +347,7 @@ SQL solutions are coded using MySQL
 |           Advanced          | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               |   30   | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/Java/Advanced/Java%20MD5/Solution.java)                                                                |
 |           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            |   30   | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)                                                            |
 
+<!--
 
 # SQL
 
@@ -392,3 +393,4 @@ SQL solutions are coded using MySQL
 |     Aggregation     | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)                       |   15   | [MySQL Solution](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2017.sql)                 |
 |     Aggregation     | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)                       |   25   | [MySQL Solution](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2018.sql)                 |
 |     Aggregation     | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)                       |   30   | [MySQL Solution](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/SQL/Aggregation/Weather%20Observation%20Station%2019.sql)                 |
+-->
